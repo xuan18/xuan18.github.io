@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 什么是兴趣
 excerpt: 「兴趣」应如此解读
 category: mind

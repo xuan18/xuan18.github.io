@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 如何提高专注力？
 excerpt: 专注——不一样的快乐
 category: mind

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 选择职业的参考资料
 excerpt: 这是个困扰你我的问题
 category: mind

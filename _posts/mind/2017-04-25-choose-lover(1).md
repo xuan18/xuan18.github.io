@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 择偶权衡（一）
 category: mind
 ---
